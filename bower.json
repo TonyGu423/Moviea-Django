@@ -1,7 +1,7 @@
 {
-  "name": "thinkster_django_angular_boilerplate",
+  "name": "moviea_django",
   "version": "0.0.0",
-  "homepage": "https://github.com/brwr/thinkster-django-angular-boilerplate",
+  "homepage": "https://github.com/TonyGu423/Moviea-Django",
   "license": "MIT",
   "ignore": [
     "**/.*",
